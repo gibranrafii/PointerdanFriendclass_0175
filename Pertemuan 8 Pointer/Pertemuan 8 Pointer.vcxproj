@@ -24,6 +24,7 @@
     <ProjectGuid>{22f88be4-d9eb-4ed8-9bba-e1b159192462}</ProjectGuid>
     <RootNamespace>Pertemuan8Pointer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Pertemuan 8.1 Pointer</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
